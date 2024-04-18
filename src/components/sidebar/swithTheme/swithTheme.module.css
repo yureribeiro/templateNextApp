@@ -1,0 +1,27 @@
+.container {
+  position: relative;
+}
+
+.themeSelect {
+  position: absolute;
+  width: 0px;
+  height: 0px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  border: 0;
+}
+
+.toggleButton {
+  position: relative;
+  /* background: var(--textOpacity); */
+  /* height: 1.390rem;
+  width: 2.340rem; */
+  border-radius: 20px;
+}
+
+/* .icon {
+  position: absolute;
+  top: -.55rem;
+  left: -.075rem;
+} */

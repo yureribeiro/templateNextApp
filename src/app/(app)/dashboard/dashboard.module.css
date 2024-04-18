@@ -1,0 +1,11 @@
+.title {
+  background: var(--textGradient);
+  color: transparent;
+  background-clip: text;
+  --webkit-background-clip: text;
+  font-size: 3rem;
+}
+
+.description {
+  color: var(--textOpacity);
+}
